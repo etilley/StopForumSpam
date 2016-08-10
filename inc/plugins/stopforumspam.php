@@ -13,9 +13,9 @@ function stopforumspam_info()
 		'website'		=> 'https://github.com/tommm/stopforumspam',
 		'author'		=> "<a href='https://github.com/Tim-B'>Tim B.</a> and <a href='https://github.com/tommm/'>Tomm</a>",
 		'authorsite'	=> '',
-		'version'		=> '1.4.1',
+		'version'		=> '1.5.0',
 		'guid'			=> 'cd4d9e2f4a6975562887ee6edffb984e',
-		'compatibility' => '1*'
+		'compatibility' => '18*'
 	);
 }
 
